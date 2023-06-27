@@ -2,3 +2,5 @@ config.h
 st
 *.o
 patches/
+*.orig
+*.rej
